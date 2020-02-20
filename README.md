@@ -1,7 +1,7 @@
 # Workfusion-preemployment-test
 Hi! Here is a document that you need to peer review. Please convert this
 document to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) using the editor of your choice (Atom, Sublime
-Text, etc.). Then, submit your Markdown file to github.com. To do this, you
+Text, etc.). Then, submit your Markdown file to [github.com](https://github.com/). To do this, you
 may need to create an account and a repository. Note that the repository
 needs to be public so we can review your work.
 
